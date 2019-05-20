@@ -47,7 +47,7 @@ $(HOME)
     +- src
 ```
 
-## Installing `classic_acdtions_to_html`
+## Installing `classic_actions_to_html`
 ```bash
 go get "github.com/salsalabs/classic_actions_to_html"
 go install "github.com/salsalabs/classic_actions_to_html"
